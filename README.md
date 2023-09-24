@@ -2,11 +2,8 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; Sabzlearn Javascript Courses Coach
-- 🎓 &nbsp; Student of IT Subject In University
-- 💼 &nbsp; Working as a Mern Stack Developer
-- 🌱 &nbsp; Learning Git & Github
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+- 💼 &nbsp; Front-end developer
+- 🌱 &nbsp; Interested in continuous learning
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
