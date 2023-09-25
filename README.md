@@ -30,10 +30,7 @@
 <h2>📞 &nbsp; Connct Me </h2>
 
 <p align="center">
-  <a href="https://instagram.com/rshorche/">
-    <img src="https://img.shields.io/badge/Instagram-@rshorche-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/rshorche/">
+   <a href="https://t.me/rshorche/">
     <img src="https://img.shields.io/badge/Telegram-@rshorche-blue?style=flat&logo=telegram" />
   </a>
 </p>
